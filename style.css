@@ -1,0 +1,24 @@
+#format {
+    width: 45%;
+    position: absolute;
+    left: 25%;
+}
+
+input {
+    position: absolute;
+    width: 90%;
+    padding: 10px;
+    border: blue 2px solid;
+    border-radius: 20px;
+}
+
+#btn {
+    width: 100px;
+    position: relative;
+    left: 100%;
+    border-radius: 20px;
+    background-color: cornflowerblue;
+    color: white;
+    font-weight: bolder;
+    font-size: 15px;
+}
